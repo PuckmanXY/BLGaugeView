@@ -27,7 +27,7 @@ If you're unfamiliar with CocoaPods you can check out this tutorial [here](http:
 Usage
 -----
 1. Either create BLGaugeView by dragging UIView from storyboard and change implementing class or create it programmatically
-2. Create an outlet (if create via storyboard)
+2. Create an outlet (if creating via storyboard)
 3. Set up parameters
 
 Author(s)
